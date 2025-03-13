@@ -16,7 +16,7 @@ You are tasked with creating a neural network that HR can use to predict whether
 
 ## 2. **File Structure**
 
-![File Structure](<Screenshot 2025-03-05 at 12.41.06 AM.png>)
+![File Structure](<Screenshot 2025-03-13 at 6.06.18 PM.png>)
 
 
 ## 3. **Prerequisites**
